@@ -13,9 +13,10 @@ I am currently studying **DAM** (Multi-platform App Development), and my goal is
 ### My Journey:
 * 🎓 Currently studying: **DAM** (Multi-platform Development).
 * 🎯 Future goal: **DAW** (Web Development) & **Fullstack Developer**.
-* 🛠️ Learning: Building backend logic with **PHP** and **Java**, and creating interfaces with **React**.
+* 🛠️ Currently learning: **PHP** and building simple websites with **React**.
 
 ### Fun Facts:
 * ⚽ I’m a big fan of **sports**.
 * 🎮 I love **video games**.
 * **Hobbies:** Programming, working out, and gaming.
+
