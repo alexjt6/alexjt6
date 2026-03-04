@@ -23,5 +23,5 @@ I am currently studying **DAM** (Multi-platform App Development), and my goal is
 ---
 
 ### Connect with me:
-* **LinkedIn:** [https://www.linkedin.com/in/alexjt607/](url)
-* **GitLab:** [https://gitlab.com/e.ajimenezt](url)
+* **LinkedIn:** [https://www.linkedin.com/in/alexjt607/]
+* **GitLab:** [https://gitlab.com/e.ajimenezt]
