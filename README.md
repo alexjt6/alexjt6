@@ -19,9 +19,3 @@ I am currently studying **DAM** (Multi-platform App Development), and my goal is
 * ⚽ I’m a big fan of **sports**.
 * 🎮 I love **video games**.
 * **Hobbies:** Programming, working out, and gaming.
-
----
-
-### Connect with me:
-* **LinkedIn:** [Your Link Here]
-* **Email:** [Your Email Here]
