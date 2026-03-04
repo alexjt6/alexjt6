@@ -4,7 +4,7 @@ I'm **Alex**, a Software Development student based in **Spain**.
 
 I've been curious about how applications are built since I was a kid. Now, I'm turning that curiosity into code, designing and building whatever I can imagine.
 
-My current tech stack includes **Java, Python, PHP, JavaScript, HTML, and CSS**. 
+My current tech stack includes **Java, Python, PHP, JavaScript, React, HTML, and CSS**. 
 
 I am currently studying **DAM** (Multi-platform App Development), and my goal is to transition into **DAW** (Web App Development) to become a **Fullstack Developer**.
 
@@ -12,8 +12,8 @@ I am currently studying **DAM** (Multi-platform App Development), and my goal is
 
 ### My Journey:
 * 🎓 Currently studying: **DAM** (Multi-platform Development).
-* 🎯 Future goal: **DAW** (Web Development), **React** & **Fullstack Expertise**.
-* 🛠️ Learning: Building backend logic with **PHP** and **Java**, and exploring the web with JS.
+* 🎯 Future goal: **DAW** (Web Development) & **Fullstack Developer**.
+* 🛠️ Learning: Building backend logic with **PHP** and **Java**, and creating interfaces with **React**.
 
 ### Fun Facts:
 * ⚽ I’m a big fan of **sports**.
