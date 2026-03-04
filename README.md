@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**alexjt6/alexjt6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Alex**, a Software Development student based in **Spain**.
 
-Here are some ideas to get you started:
+I've been curious about how applications are built since I was a kid. Now, I'm turning that curiosity into code, designing and building whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current tech stack includes **Java, Python, PHP, JavaScript, HTML, and CSS**. 
+
+I am currently studying **DAM** (Multi-platform App Development), and my goal is to transition into **DAW** (Web App Development) to become a **Fullstack Developer**.
+
+---
+
+### My Journey:
+* 🎓 Currently studying: **DAM** (Multi-platform Development).
+* 🎯 Future goal: **DAW** (Web Development), **React** & **Fullstack Expertise**.
+* 🛠️ Learning: Building backend logic with **PHP** and **Java**, and exploring the web with JS.
+
+### Fun Facts:
+* ⚽ I’m a big fan of **sports**.
+* 🎮 I love **video games**.
+* **Hobbies:** Programming, working out, and gaming.
+
+---
+
+### Connect with me:
+* **LinkedIn:** [Your Link Here]
+* **Email:** [Your Email Here]
